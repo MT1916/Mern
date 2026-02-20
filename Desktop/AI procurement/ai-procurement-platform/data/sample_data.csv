@@ -1,0 +1,141 @@
+product_id,product_name,category,subcategory,brand,supplier_name,mrp,selling_price,pack_size,unit
+1,Aeroplane Basmati Rice,Rice & Grains,Basmati,Aeroplane,BigBasket,850,799,2,kg
+1,Aeroplane Basmati Rice,Rice & Grains,Basmati,Aeroplane,Blinkit,850,825,2,kg
+1,Aeroplane Basmati Rice,Rice & Grains,Basmati,Aeroplane,Grofers,850,810,2,kg
+1,Aeroplane Basmati Rice,Rice & Grains,Basmati,Aeroplane,Amazon Fresh,850,820,2,kg
+2,India Gate Celebration Rice,Rice & Grains,Regular Rice,India Gate,BigBasket,450,399,2,kg
+2,India Gate Celebration Rice,Rice & Grains,Regular Rice,India Gate,Blinkit,450,415,2,kg
+2,India Gate Celebration Rice,Rice & Grains,Regular Rice,India Gate,Grofers,450,405,2,kg
+2,India Gate Celebration Rice,Rice & Grains,Regular Rice,India Gate,Amazon Fresh,450,410,2,kg
+3,Aashirvaad Chakki Atta,Atta & Flour,Wheat Atta,Aashirvaad,BigBasket,280,249,5,kg
+3,Aashirvaad Chakki Atta,Atta & Flour,Wheat Atta,Aashirvaad,Blinkit,280,265,5,kg
+3,Aashirvaad Chakki Atta,Atta & Flour,Wheat Atta,Aashirvaad,Grofers,280,255,5,kg
+3,Aashirvaad Chakki Atta,Atta & Flour,Wheat Atta,Aashirvaad,Amazon Fresh,280,260,5,kg
+4,Pillsbury Maida,Atta & Flour,Maida,Pillsbury,BigBasket,150,125,1,kg
+4,Pillsbury Maida,Atta & Flour,Maida,Pillsbury,Blinkit,150,145,1,kg
+4,Pillsbury Maida,Atta & Flour,Maida,Pillsbury,Grofers,150,135,1,kg
+5,Tata Sampann Masoor Dal,Dal & Legumes,Red Lentils,Tata Sampann,BigBasket,380,349,1,kg
+5,Tata Sampann Masoor Dal,Dal & Legumes,Red Lentils,Tata Sampann,Blinkit,380,365,1,kg
+5,Tata Sampann Masoor Dal,Dal & Legumes,Red Lentils,Tata Sampann,Grofers,380,355,1,kg
+5,Tata Sampann Masoor Dal,Dal & Legumes,Red Lentils,Tata Sampann,Amazon Fresh,380,358,1,kg
+6,Nature's Gift Moong Dal,Dal & Legumes,Moong Dal,Nature's Gift,BigBasket,420,389,1,kg
+6,Nature's Gift Moong Dal,Dal & Legumes,Moong Dal,Nature's Gift,Blinkit,420,410,1,kg
+6,Nature's Gift Moong Dal,Dal & Legumes,Moong Dal,Nature's Gift,Grofers,420,395,1,kg
+7,Catch Chana Dal,Dal & Legumes,Chickpeas,Catch,BigBasket,350,315,1,kg
+7,Catch Chana Dal,Dal & Legumes,Chickpeas,Catch,Blinkit,350,340,1,kg
+7,Catch Chana Dal,Dal & Legumes,Chickpeas,Catch,Grofers,350,325,1,kg
+8,Fortune Refined Oil,Edible Oil,Sunflower Oil,Fortune,BigBasket,780,729,2,litre
+8,Fortune Refined Oil,Edible Oil,Sunflower Oil,Fortune,Blinkit,780,750,2,litre
+8,Fortune Refined Oil,Edible Oil,Sunflower Oil,Fortune,Grofers,780,739,2,litre
+8,Fortune Refined Oil,Edible Oil,Sunflower Oil,Fortune,Amazon Fresh,780,745,2,litre
+9,Saffola Coconut Oil,Edible Oil,Coconut Oil,Saffola,BigBasket,550,499,1,litre
+9,Saffola Coconut Oil,Edible Oil,Coconut Oil,Saffola,Blinkit,550,520,1,litre
+9,Saffola Coconut Oil,Edible Oil,Coconut Oil,Saffola,Grofers,550,510,1,litre
+10,Sundrop Groundnut Oil,Edible Oil,Groundnut Oil,Sundrop,BigBasket,680,619,2,litre
+10,Sundrop Groundnut Oil,Edible Oil,Groundnut Oil,Sundrop,Blinkit,680,650,2,litre
+10,Sundrop Groundnut Oil,Edible Oil,Groundnut Oil,Sundrop,Grofers,680,635,2,litre
+11,Nandini Milk,Milk & Dairy,Milk,Nandini,BigBasket,70,65,1,litre
+11,Nandini Milk,Milk & Dairy,Milk,Nandini,Blinkit,70,68,1,litre
+11,Nandini Milk,Milk & Dairy,Milk,Nandini,Grofers,70,66,1,litre
+12,Amul Curd,Milk & Dairy,Curd,Amul,BigBasket,55,48,500,gram
+12,Amul Curd,Milk & Dairy,Curd,Amul,Blinkit,55,52,500,gram
+12,Amul Curd,Milk & Dairy,Curd,Amul,Grofers,55,50,500,gram
+13,Amul Paneer,Milk & Dairy,Paneer,Amul,BigBasket,450,399,200,gram
+13,Amul Paneer,Milk & Dairy,Paneer,Amul,Blinkit,450,425,200,gram
+13,Amul Paneer,Milk & Dairy,Paneer,Amul,Grofers,450,410,200,gram
+14,Mother Dairy Butter,Milk & Dairy,Butter,Mother Dairy,BigBasket,380,349,200,gram
+14,Mother Dairy Butter,Milk & Dairy,Butter,Mother Dairy,Blinkit,380,365,200,gram
+14,Mother Dairy Butter,Milk & Dairy,Butter,Mother Dairy,Grofers,380,355,200,gram
+15,Lay's Potato Chips,Snacks & Namkeen,Potato Chips,Lay's,BigBasket,60,53,40,gram
+15,Lay's Potato Chips,Snacks & Namkeen,Potato Chips,Lay's,Blinkit,60,58,40,gram
+15,Lay's Potato Chips,Snacks & Namkeen,Potato Chips,Lay's,Grofers,60,55,40,gram
+16,Kurkure Masala Munch,Snacks & Namkeen,Corn Snacks,Kurkure,BigBasket,50,45,45,gram
+16,Kurkure Masala Munch,Snacks & Namkeen,Corn Snacks,Kurkure,Blinkit,50,48,45,gram
+16,Kurkure Masala Munch,Snacks & Namkeen,Corn Snacks,Kurkure,Grofers,50,46,45,gram
+17,Haldiram's Namkeen Mix,Snacks & Namkeen,Mixed Namkeen,Haldiram's,BigBasket,140,125,270,gram
+17,Haldiram's Namkeen Mix,Snacks & Namkeen,Mixed Namkeen,Haldiram's,Blinkit,140,135,270,gram
+17,Haldiram's Namkeen Mix,Snacks & Namkeen,Mixed Namkeen,Haldiram's,Grofers,140,130,270,gram
+18,Bingo Black & White Wafers,Snacks & Namkeen,Baked Snacks,Bingo,BigBasket,35,31,35,gram
+18,Bingo Black & White Wafers,Snacks & Namkeen,Baked Snacks,Bingo,Blinkit,35,33,35,gram
+18,Bingo Black & White Wafers,Snacks & Namkeen,Baked Snacks,Bingo,Grofers,35,32,35,gram
+19,Tata Tea Premium,Beverages,Tea,Tata Tea,BigBasket,250,229,250,gram
+19,Tata Tea Premium,Beverages,Tea,Tata Tea,Blinkit,250,240,250,gram
+19,Tata Tea Premium,Beverages,Tea,Tata Tea,Grofers,250,235,250,gram
+20,Nescafé Classic Coffee,Beverages,Coffee,Nescafé,BigBasket,380,349,125,gram
+20,Nescafé Classic Coffee,Beverages,Coffee,Nescafé,Blinkit,380,365,125,gram
+20,Nescafé Classic Coffee,Beverages,Coffee,Nescafé,Grofers,380,355,125,gram
+21,Sprite Lemonade Drink,Beverages,Energy Drinks,Sprite,BigBasket,60,54,300,ml
+21,Sprite Lemonade Drink,Beverages,Energy Drinks,Sprite,Blinkit,60,58,300,ml
+21,Sprite Lemonade Drink,Beverages,Energy Drinks,Sprite,Grofers,60,56,300,ml
+22,Tropicana Orange Juice,Beverages,Juices,Tropicana,BigBasket,120,105,1,litre
+22,Tropicana Orange Juice,Beverages,Juices,Tropicana,Blinkit,120,115,1,litre
+22,Tropicana Orange Juice,Beverages,Juices,Tropicana,Grofers,120,110,1,litre
+23,Frooti Mango Drink,Beverages,Juices,Frooti,BigBasket,35,32,250,ml
+23,Frooti Mango Drink,Beverages,Juices,Frooti,Blinkit,35,34,250,ml
+23,Frooti Mango Drink,Beverages,Juices,Frooti,Grofers,35,33,250,ml
+24,Clinic Plus Shampoo,Personal Care,Hair Care,Clinic Plus,BigBasket,280,249,400,ml
+24,Clinic Plus Shampoo,Personal Care,Hair Care,Clinic Plus,Blinkit,280,265,400,ml
+24,Clinic Plus Shampoo,Personal Care,Hair Care,Clinic Plus,Grofers,280,255,400,ml
+25,Dove Bath Soap,Personal Care,Bath Products,Dove,BigBasket,90,79,75,gram
+25,Dove Bath Soap,Personal Care,Bath Products,Dove,Blinkit,90,85,75,gram
+25,Dove Bath Soap,Personal Care,Bath Products,Dove,Grofers,90,82,75,gram
+26,Colgate Toothpaste,Personal Care,Oral Care,Colgate,BigBasket,95,85,100,gram
+26,Colgate Toothpaste,Personal Care,Oral Care,Colgate,Blinkit,95,90,100,gram
+26,Colgate Toothpaste,Personal Care,Oral Care,Colgate,Grofers,95,88,100,gram
+27,Himalaya Face Wash,Personal Care,Skincare,Himalaya,BigBasket,195,169,100,ml
+27,Himalaya Face Wash,Personal Care,Skincare,Himalaya,Blinkit,195,185,100,ml
+27,Himalaya Face Wash,Personal Care,Skincare,Himalaya,Grofers,195,175,100,ml
+28,Dettol Sanitizer,Personal Care,Skincare,Dettol,BigBasket,99,89,500,ml
+28,Dettol Sanitizer,Personal Care,Skincare,Dettol,Blinkit,99,95,500,ml
+28,Dettol Sanitizer,Personal Care,Skincare,Dettol,Grofers,99,92,500,ml
+29,Surf Excel Detergent,Cleaning Products,Laundry Detergent,Surf,BigBasket,380,329,1.5,kg
+29,Surf Excel Detergent,Cleaning Products,Laundry Detergent,Surf,Blinkit,380,360,1.5,kg
+29,Surf Excel Detergent,Cleaning Products,Laundry Detergent,Surf,Grofers,380,345,1.5,kg
+30,Ariel Laundry Powder,Cleaning Products,Laundry Detergent,Ariel,BigBasket,450,399,2,kg
+30,Ariel Laundry Powder,Cleaning Products,Laundry Detergent,Ariel,Blinkit,450,425,2,kg
+30,Ariel Laundry Powder,Cleaning Products,Laundry Detergent,Ariel,Grofers,450,410,2,kg
+31,Rin Laundry Detergent,Cleaning Products,Laundry Detergent,Rin,BigBasket,280,249,1,kg
+31,Rin Laundry Detergent,Cleaning Products,Laundry Detergent,Rin,Blinkit,280,265,1,kg
+31,Rin Laundry Detergent,Cleaning Products,Laundry Detergent,Rin,Grofers,280,255,1,kg
+32,Lizol Floor Cleaner,Cleaning Products,Floor Cleaner,Lizol,BigBasket,180,159,1,litre
+32,Lizol Floor Cleaner,Cleaning Products,Floor Cleaner,Lizol,Blinkit,180,170,1,litre
+32,Lizol Floor Cleaner,Cleaning Products,Floor Cleaner,Lizol,Grofers,180,165,1,litre
+33,Harpic Toilet Cleaner,Cleaning Products,Disinfectants,Harpic,BigBasket,150,129,500,ml
+33,Harpic Toilet Cleaner,Cleaning Products,Disinfectants,Harpic,Blinkit,150,140,500,ml
+33,Harpic Toilet Cleaner,Cleaning Products,Disinfectants,Harpic,Grofers,150,135,500,ml
+34,Dettol Disinfectant,Cleaning Products,Disinfectants,Dettol,BigBasket,280,249,500,ml
+34,Dettol Disinfectant,Cleaning Products,Disinfectants,Dettol,Blinkit,280,265,500,ml
+34,Dettol Disinfectant,Cleaning Products,Disinfectants,Dettol,Grofers,280,255,500,ml
+35,Maggi Noodles,Packaged Foods,Instant Noodles,Maggi,BigBasket,12,10,70,gram
+35,Maggi Noodles,Packaged Foods,Instant Noodles,Maggi,Blinkit,12,11,70,gram
+35,Maggi Noodles,Packaged Foods,Instant Noodles,Maggi,Grofers,12,11,70,gram
+36,Britannia Cornflakes,Packaged Foods,Breakfast Cereals,Britannia,BigBasket,420,379,350,gram
+36,Britannia Cornflakes,Packaged Foods,Breakfast Cereals,Britannia,Blinkit,420,400,350,gram
+36,Britannia Cornflakes,Packaged Foods,Breakfast Cereals,Britannia,Grofers,420,390,350,gram
+37,Nestlé Multigrain Cereal,Packaged Foods,Breakfast Cereals,Nestlé,BigBasket,380,349,250,gram
+37,Nestlé Multigrain Cereal,Packaged Foods,Breakfast Cereals,Nestlé,Blinkit,380,365,250,gram
+37,Nestlé Multigrain Cereal,Packaged Foods,Breakfast Cereals,Nestlé,Grofers,380,355,250,gram
+38,Kissan Tomato Ketchup,Packaged Foods,Condiments,Kissan,BigBasket,120,105,500,ml
+38,Kissan Tomato Ketchup,Packaged Foods,Condiments,Kissan,Blinkit,120,115,500,ml
+38,Kissan Tomato Ketchup,Packaged Foods,Condiments,Kissan,Grofers,120,110,500,ml
+39,Everest Garam Masala,Spices & Condiments,Spice Mixes,Everest,BigBasket,180,159,100,gram
+39,Everest Garam Masala,Spices & Condiments,Spice Mixes,Everest,Blinkit,180,170,100,gram
+39,Everest Garam Masala,Spices & Condiments,Spice Mixes,Everest,Grofers,180,165,100,gram
+40,MDH Garam Masala,Spices & Condiments,Spice Mixes,MDH,BigBasket,150,129,100,gram
+40,MDH Garam Masala,Spices & Condiments,Spice Mixes,MDH,Blinkit,150,140,100,gram
+40,MDH Garam Masala,Spices & Condiments,Spice Mixes,MDH,Grofers,150,135,100,gram
+41,Tata Sampann Turmeric Powder,Spices & Condiments,Spice Powders,Tata Sampann,BigBasket,280,249,200,gram
+41,Tata Sampann Turmeric Powder,Spices & Condiments,Spice Powders,Tata Sampann,Blinkit,280,265,200,gram
+41,Tata Sampann Turmeric Powder,Spices & Condiments,Spice Powders,Tata Sampann,Grofers,280,255,200,gram
+42,Catch Red Chili Powder,Spices & Condiments,Spice Powders,Catch,BigBasket,220,189,200,gram
+42,Catch Red Chili Powder,Spices & Condiments,Spice Powders,Catch,Blinkit,220,210,200,gram
+42,Catch Red Chili Powder,Spices & Condiments,Spice Powders,Catch,Grofers,220,200,200,gram
+43,Shan Biryani Masala,Spices & Condiments,Spice Mixes,Shan,BigBasket,99,85,100,gram
+43,Shan Biryani Masala,Spices & Condiments,Spice Mixes,Shan,Blinkit,99,95,100,gram
+43,Shan Biryani Masala,Spices & Condiments,Spice Mixes,Shan,Grofers,99,90,100,gram
+44,Iodized Salt,Spices & Condiments,Salt,Generic,BigBasket,30,25,500,gram
+44,Iodized Salt,Spices & Condiments,Salt,Generic,Blinkit,30,28,500,gram
+44,Iodized Salt,Spices & Condiments,Salt,Generic,Grofers,30,27,500,gram
+45,Sunfeast Marie Biscuits,Packaged Foods,Breakfast Cereals,Sunfeast,BigBasket,85,74,250,gram
+45,Sunfeast Marie Biscuits,Packaged Foods,Breakfast Cereals,Sunfeast,Blinkit,85,80,250,gram
+45,Sunfeast Marie Biscuits,Packaged Foods,Breakfast Cereals,Sunfeast,Grofers,85,77,250,gram
